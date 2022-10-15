@@ -1,0 +1,126 @@
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:09.440421, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:07.726160, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:07.840400, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:07.636784, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:08.779027, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:08.477025, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:07.681434, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:09.296840, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:08.264357, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:07.910340, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:08.054380, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:09.653632, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:09.104908, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:09.189537, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:07.915458, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:06.777176, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:08.602681, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:08.230613, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:09.356891, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:08.188360, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (SSLError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:08.927376, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:08.233325, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:08.269755, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:08.167193, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:08.461932, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:08.684062, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:08.875135, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:08.596490, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:09.211574, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:09.028875, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:08.968354, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:09.264333, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:08.042102, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:08.929875, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:09.543984, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:07.733191, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:08.276559, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:09.526120, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:07.763537, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:09.411100, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:08.949812, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:07.683921, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+[34m[1mwandb[39m[22m: Network error resolved after 0:00:07.547981, resuming normal operation.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.
+wandb: Network error (ConnectionError), entering retry loop.

@@ -1,0 +1,16 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.9.13",
+    "heartbeatAt": "2022-10-13T01:23:09.367625",
+    "startedAt": "2022-10-13T01:23:08.904288",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "Untitled.ipynb",
+    "root": "/Users/rajathbharadwaj/D/TAI/Project_1_MNIST_cnn",
+    "host": "Rajaths-MacBook-Pro.local",
+    "username": "rajathbharadwaj",
+    "executable": "/Users/rajathbharadwaj/miniconda3/envs/tai/bin/python"
+}
