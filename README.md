@@ -1,7 +1,7 @@
 # Tai
 
 How to run this project
-1. clone this repo
+1. clone this repo <br> `git clone https://github.com/Rajathbharadwaj/Tai.git` <br>then cd into this repo
 2. If you have conda installed <br>
    ```conda env create -f tai_conda_env.yml```
 3. Else 
