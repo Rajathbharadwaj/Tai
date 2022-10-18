@@ -9,6 +9,7 @@ import wandb
 from hyper_params import *
 from rich.pretty import pprint
 from tqdm import tqdm
+import streamlit as st
 
 
 class CNN(nn.Module):
@@ -125,6 +126,8 @@ def train_epoch(state, train_ds, batch_size, epoch, rng):
     epoch_metrics_np = {
         k: np.mean([metrics[k] for metrics in batch_metrics_np])
         for k in batch_metrics_np[0]}
+    st.text('train epoch: %d, loss: %.4f, accuracy: %.2f' % (
+        epoch, epoch_metrics_np['loss'], epoch_metrics_np['accuracy'] * 100))
     print('train epoch: %d, loss: %.4f, accuracy: %.2f' % (
         epoch, epoch_metrics_np['loss'], epoch_metrics_np['accuracy'] * 100))
 
@@ -140,11 +143,13 @@ def eval_model(params, test_ds):
 
 
 def main():
+    st.info('Loading MNIST dataset')
     train_ds, test_ds = datasets('mnist')
     rng = jax.random.PRNGKey(0)
     rng, init_rng = jax.random.split(rng)
+    st.info('Creating training state')
     state = create_train_state(init_rng, learning_rate, momentum)
-
+    st.write(state)
     wandb.config = {
         "learning_rate": learning_rate,
         "epochs": num_epochs,
@@ -152,17 +157,25 @@ def main():
     }
 
     pprint(wandb.config)
+    st.text(wandb.config)
 
-    for epoch in tqdm(range(1, num_epochs + 1)):
+    progress_bar = st.progress(0)
+    for index, epoch in tqdm(enumerate(range(1, num_epochs + 1))):
+        st.info('Starting Training Now! If on CPU, wait for a long time')
+        st.info('Progress bar will show the training status along with verbose')
         rng, input_rng = jax.random.split(rng)
         state = train_epoch(state, train_ds, batch_size, epoch, input_rng)
         test_loss, test_accuracy = eval_model(state.params, test_ds)
+        st.text(' test epoch: %d, loss: %.2f, accuracy: %.2f' % (
+            epoch, test_loss, test_accuracy * 100))
+
         pprint(' test epoch: %d, loss: %.2f, accuracy: %.2f' % (
             epoch, test_loss, test_accuracy * 100))
         wandb.log({
             'test_loss': test_loss,
             'test_accuracy': test_accuracy
         })
+        progress_bar.progress(index)
 
 
 if __name__ == '__main__':
