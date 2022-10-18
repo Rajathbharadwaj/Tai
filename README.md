@@ -7,3 +7,5 @@ How to run this project
 3. Else 
    ```pip install -r requirements.txt```
 4. Then run either <br> `python cnn_mnist_flax_jax` or `python cnn_mnist_pytorch.py`
+5. Or You can use streamlit
+6. After step 3, run <br> `streamlit run app.py`
