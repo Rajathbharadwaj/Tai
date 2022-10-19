@@ -100,7 +100,7 @@ nbformat==5.7.0
 nest-asyncio==1.5.6
 notebook==6.4.12
 notebook-shim==0.1.0
-numpy==1.23.3
+numpy
 oauthlib==3.2.1
 opt-einsum==3.3.0
 optax==0.1.3
