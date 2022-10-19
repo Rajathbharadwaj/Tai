@@ -150,6 +150,7 @@ def main():
     st.info('Creating training state')
     state = create_train_state(init_rng, learning_rate, momentum)
     st.write(state)
+    wandb.init('Flax',)
     wandb.config = {
         "learning_rate": learning_rate,
         "epochs": num_epochs,
