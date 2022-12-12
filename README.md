@@ -17,6 +17,6 @@ How to run this project
 
 # Project 2 Kaggle Challenge
 
-1. [Colab Jupyter Notebook][https://colab.research.google.com/drive/197k55S4MNwKsV5zmSBZMrv9u_GtjvVhG?usp=sharing]
+1. [Colab Jupyter Notebook](https://colab.research.google.com/drive/197k55S4MNwKsV5zmSBZMrv9u_GtjvVhG?usp=sharing)
 
 2. Project Report[https://docs.google.com/document/d/17cHbozS18BZSsB4gXzxatNBwx8HYE5eL/edit?usp=sharing&ouid=102167624334602253546&rtpof=true&sd=true]
